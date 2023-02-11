@@ -1,0 +1,15 @@
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\bin\Debug\net6.0\Hopfield9x9.exe
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\bin\Debug\net6.0\Hopfield9x9.deps.json
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\bin\Debug\net6.0\Hopfield9x9.runtimeconfig.json
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\bin\Debug\net6.0\Hopfield9x9.dll
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\bin\Debug\net6.0\Hopfield9x9.pdb
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.csproj.AssemblyReference.cache
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.GeneratedMSBuildEditorConfig.editorconfig
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.AssemblyInfoInputs.cache
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.AssemblyInfo.cs
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.csproj.CoreCompileInputs.cache
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.dll
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\refint\Hopfield9x9.dll
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.pdb
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\Hopfield9x9.genruntimeconfig.cache
+C:\IntelliSystem Programs\Hopfield9x9\Hopfield9x9\obj\Debug\net6.0\ref\Hopfield9x9.dll
